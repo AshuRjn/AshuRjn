@@ -1,4 +1,4 @@
-Hi there 👋, I'm Ashutosh Ranjan!
+Greetings, I'm Ashutosh Ranjan 👋!
 
 👀  Specializing in software development with a focus on Java Spring Boot, Microservices, AWS, DevOps. Keen on exploring new technologies and pushing the boundaries of what's possible.
 
