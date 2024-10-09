@@ -1,6 +1,8 @@
-Greetings, I'm Ashutosh Ranjan 👋!
+Hi there! 👋 I'm Ashutosh Ranjan
+   
+About Me
+I am a passionate software engineer with expertise in Java, Spring Boot, Hibernate, Kafka, Agile methodology, C++, and Python. I specialize in building robust applications using technologies such as Java, Spring Boot, Microservices, REST APIs, and AWS EC2 instances.Technical Skills
 
-👀  Specializing in software development with a focus on Java Spring Boot, Microservices, AWS, DevOps ,c++ and Python. Keen on exploring new technologies and pushing the boundaries of what's possible.
 
 🌱 Currently Learning:
 - Advanced Java techniques
