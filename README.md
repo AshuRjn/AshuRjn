@@ -1,12 +1,14 @@
 Greetings, I'm Ashutosh Ranjan 👋!
 
-👀  Specializing in software development with a focus on Java Spring Boot, Microservices, AWS, DevOps. Keen on exploring new technologies and pushing the boundaries of what's possible.
+👀  Specializing in software development with a focus on Java Spring Boot, Microservices, AWS, DevOps ,c++ and Python. Keen on exploring new technologies and pushing the boundaries of what's possible.
 
 🌱 Currently Learning:
 - Advanced Java techniques
 - Cloud computing with AWS
 - Enhancing my skills in microservices architecture
 - Mastering DevOps practices and tools
+- Expanding my knowledge in C++ and Python
+
 
 💞️ Looking to Collaborate On:
 - Open-source projects
