@@ -4,11 +4,12 @@ Hi there! 👋 I'm Ashutosh Ranjan<br><br>About Me<br><br>I am a passionate soft
 💞️ Looking to Collaborate On:
 <br><br>Open-source projects<br>Innovative software solutions<br>Anything that challenges my coding skills and broadens my horizons<br>
 
-📫 How to Reach Me: Linktree Profile<br><br>
+📫 How to Reach Me: 
 Email: chandraashutosh928@gmail.com<br>
-⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.<br><br>
-Let's connect and create something amazing together!https://gprm.itsvg.in ) -->
 
+⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.<br><br>
+
+Let's connect and create something amazing together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justashu31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-ranjan-7a5690244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AshutoshRjn) 
