@@ -1,10 +1,13 @@
 # 💫 About Me:
 Hi there! 👋 I'm Ashutosh Ranjan<br><br>About Me<br><br>I am a passionate software engineer with expertise in Java, Spring Boot, Hibernate, Kafka, Agile methodology, C++, and Python. I specialize in building robust applications using technologies such as Java, Spring Boot, Microservices, REST APIs, and AWS EC2 instances.<br><br>🌱 Currently Learning:<br><br>Advanced Java techniques<br>Cloud computing with AWS<br>Enhancing my skills in microservices architecture<br>Mastering DevOps practices and tools<br>Expanding my knowledge in C++ and Python<br>
+
 💞️ Looking to Collaborate On:
 <br><br>Open-source projects<br>Innovative software solutions<br>Anything that challenges my coding skills and broadens my horizons<br>
-📫 How to Reach Me: Linktree Profile<br><br>Email: chandraashutosh928@gmail.com<br>
+
+📫 How to Reach Me: Linktree Profile<br><br>
+Email: chandraashutosh928@gmail.com<br>
 ⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.<br><br>
-Let's connect and create something amazing together!<br><br><br>id=AshuRjn&icon=0&color=0)](https://visitcount.itsvg.in)<br><br><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Let's connect and create something amazing together!https://gprm.itsvg.in ) -->
 
 
 ## 🌐 Socials:
