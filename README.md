@@ -7,7 +7,7 @@
 
 
 💞️ Looking to Collaborate On:
-  <br><br>Open-source projects<br>Innovative software solutions<br>Anything that challenges my coding skills and broadens my horizons<br>
+  <br>Open-source projects<br>Innovative software solutions<br>Anything that challenges my coding skills and broadens my horizons<br>
 
 📫 How to Reach Me: 
    Email: chandraashutosh928@gmail.com<br>
