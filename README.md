@@ -69,10 +69,13 @@ A dedicated software developer specializing in Java, Spring Boot, Hibernate, Kaf
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ashurjn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashurjn&theme=gruvbox&hide_border=false" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashurjn&theme=gruvbox&hide_border=false&date_format=j%20M%20Y&currStreakLabel=ff8b00&sideLabels=fff&ring=4c1b8f&fire=ffbc00&currStreakNum=fff&sideNum=fff&dates=fff&background=000&border=fff&stroke=2&streakLength=45" alt="GitHub Streak">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurjn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurjn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&card_width=450&custom_title=Most%20Used%20Languages&count_private=true" alt="Top Languages">
 </p>
 <p align="center">
     <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=Ashurjn&icon=2&color=0" alt="Profile Visit Counter"></a>
 </p>
+
+
+
