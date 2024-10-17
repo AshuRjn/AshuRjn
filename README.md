@@ -7,16 +7,6 @@
 <h2>💫 About Me:</h2>
 A dedicated software developer specializing in Java, Spring Boot, Hibernate, Kafka, Agile, C++, and Python. I build scalable and robust applications using modern technologies such as Microservices, REST APIs, and AWS EC2 instances. I believe in constantly learning and growing as a developer.
 
-<h2>🌱 Currently Learning:</h2>
-  🆕 Advanced Java techniques.
-<br>
-  ☁️ Cloud computing with AWS.
-<br>
-  📦 Microservices architecture.
-<br>
-  🔄 Enhancing Agile methodologies and Kafka technologies.
-<br>
-  🔍 Expanding my knowledge in C++ and Python.
 
 <h2>💞️ Looking to Collaborate On:</h2>
   🌍 Open-source projects.
@@ -33,7 +23,6 @@ A dedicated software developer specializing in Java, Spring Boot, Hibernate, Kaf
 
 </a>
 
-<h3>⚡ Fun Fact: When I'm not coding, I'm out exploring hiking trails or experimenting with new recipes in the kitchen! 🍳🏞️</h3>
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
